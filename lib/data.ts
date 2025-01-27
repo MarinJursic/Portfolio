@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "Freelance",
     description:
-      "Worked for various client on different projects for 2 years. Developed web apps, websites and landing pages using a wide range of technologies, each for their specific needs.",
+      "Worked for various client on many different projects of various scales. Developed web apps, websites and landing pages using a wide range of technologies, each for their specific needs.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
