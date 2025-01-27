@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "COMPUTER TECHNICIAN",
+    title: "Computer Tehnician",
     location: "Zadar, Croatia",
     description:
       "Learned about hardware and software of computer systems and specialized in software development.",
