@@ -65,7 +65,7 @@ export const projectsData = [
     title: "Honeycomb",
     description:
       "Software as a Service for managing and tracking tasks. I was the full-stack developer. It has features like user authentication, task management and analytics.",
-    tags: ["React", "Next.js", "Firebase", "Redux", "Tailwind","Framer Motion"],
+    tags: ["Next.js", "Firebase", "Redux"],
     imageUrl: honeycomb,
   },
   {
