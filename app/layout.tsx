@@ -2,7 +2,6 @@ import Header from "@/components/header";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import { GeistSans } from 'geist/font/sans';
-import { GeistMono } from 'geist/font/mono';
 import ActiveSectionContextProvider from "@/context/active-section-context";
 import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/theme-switch";
